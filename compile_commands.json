@@ -1,0 +1,87 @@
+[
+{
+  "directory": "/home/vpham/repos/computer-graphics/PA2",
+  "command": "/usr/bin/c++ -DUNIX -I/home/vpham/repos/computer-graphics/PA2/include -I/usr/include/SDL2 -I/home/vpham/repos/computer-graphics/PA2/imgui -I/home/vpham/repos/computer-graphics/PA2/imgui/backends  -std=gnu++11 -g -o CMakeFiles/IMGUI.dir/imgui/imgui_demo.cpp.o -c /home/vpham/repos/computer-graphics/PA2/imgui/imgui_demo.cpp",
+  "file": "/home/vpham/repos/computer-graphics/PA2/imgui/imgui_demo.cpp"
+},
+{
+  "directory": "/home/vpham/repos/computer-graphics/PA2",
+  "command": "/usr/bin/c++ -DUNIX -I/home/vpham/repos/computer-graphics/PA2/include -I/usr/include/SDL2 -I/home/vpham/repos/computer-graphics/PA2/imgui -I/home/vpham/repos/computer-graphics/PA2/imgui/backends  -std=gnu++11 -g -o CMakeFiles/IMGUI.dir/imgui/imgui_draw.cpp.o -c /home/vpham/repos/computer-graphics/PA2/imgui/imgui_draw.cpp",
+  "file": "/home/vpham/repos/computer-graphics/PA2/imgui/imgui_draw.cpp"
+},
+{
+  "directory": "/home/vpham/repos/computer-graphics/PA2",
+  "command": "/usr/bin/c++ -DUNIX -I/home/vpham/repos/computer-graphics/PA2/include -I/usr/include/SDL2 -I/home/vpham/repos/computer-graphics/PA2/imgui -I/home/vpham/repos/computer-graphics/PA2/imgui/backends  -std=gnu++11 -g -o CMakeFiles/IMGUI.dir/imgui/imgui_tables.cpp.o -c /home/vpham/repos/computer-graphics/PA2/imgui/imgui_tables.cpp",
+  "file": "/home/vpham/repos/computer-graphics/PA2/imgui/imgui_tables.cpp"
+},
+{
+  "directory": "/home/vpham/repos/computer-graphics/PA2",
+  "command": "/usr/bin/c++ -DUNIX -I/home/vpham/repos/computer-graphics/PA2/include -I/usr/include/SDL2 -I/home/vpham/repos/computer-graphics/PA2/imgui -I/home/vpham/repos/computer-graphics/PA2/imgui/backends  -std=gnu++11 -g -o CMakeFiles/IMGUI.dir/imgui/imgui_widgets.cpp.o -c /home/vpham/repos/computer-graphics/PA2/imgui/imgui_widgets.cpp",
+  "file": "/home/vpham/repos/computer-graphics/PA2/imgui/imgui_widgets.cpp"
+},
+{
+  "directory": "/home/vpham/repos/computer-graphics/PA2",
+  "command": "/usr/bin/c++ -DUNIX -I/home/vpham/repos/computer-graphics/PA2/include -I/usr/include/SDL2 -I/home/vpham/repos/computer-graphics/PA2/imgui -I/home/vpham/repos/computer-graphics/PA2/imgui/backends  -std=gnu++11 -g -o CMakeFiles/IMGUI.dir/imgui/imgui.cpp.o -c /home/vpham/repos/computer-graphics/PA2/imgui/imgui.cpp",
+  "file": "/home/vpham/repos/computer-graphics/PA2/imgui/imgui.cpp"
+},
+{
+  "directory": "/home/vpham/repos/computer-graphics/PA2",
+  "command": "/usr/bin/c++ -DUNIX -I/home/vpham/repos/computer-graphics/PA2/include -I/usr/include/SDL2 -I/home/vpham/repos/computer-graphics/PA2/imgui -I/home/vpham/repos/computer-graphics/PA2/imgui/backends  -std=gnu++11 -g -o CMakeFiles/IMGUI.dir/imgui/backends/imgui_impl_opengl3.cpp.o -c /home/vpham/repos/computer-graphics/PA2/imgui/backends/imgui_impl_opengl3.cpp",
+  "file": "/home/vpham/repos/computer-graphics/PA2/imgui/backends/imgui_impl_opengl3.cpp"
+},
+{
+  "directory": "/home/vpham/repos/computer-graphics/PA2",
+  "command": "/usr/bin/c++ -DUNIX -I/home/vpham/repos/computer-graphics/PA2/include -I/usr/include/SDL2 -I/home/vpham/repos/computer-graphics/PA2/imgui -I/home/vpham/repos/computer-graphics/PA2/imgui/backends  -std=gnu++11 -g -o CMakeFiles/IMGUI.dir/imgui/backends/imgui_impl_glfw.cpp.o -c /home/vpham/repos/computer-graphics/PA2/imgui/backends/imgui_impl_glfw.cpp",
+  "file": "/home/vpham/repos/computer-graphics/PA2/imgui/backends/imgui_impl_glfw.cpp"
+},
+{
+  "directory": "/home/vpham/repos/computer-graphics/PA2",
+  "command": "/usr/bin/c++ -DUNIX -I/home/vpham/repos/computer-graphics/PA2/include -I/usr/include/SDL2 -I/home/vpham/repos/computer-graphics/PA2/imgui -I/home/vpham/repos/computer-graphics/PA2/imgui/backends  -std=gnu++11 -g -o CMakeFiles/Tutorial.dir/src/argwrapper.cpp.o -c /home/vpham/repos/computer-graphics/PA2/src/argwrapper.cpp",
+  "file": "/home/vpham/repos/computer-graphics/PA2/src/argwrapper.cpp"
+},
+{
+  "directory": "/home/vpham/repos/computer-graphics/PA2",
+  "command": "/usr/bin/c++ -DUNIX -I/home/vpham/repos/computer-graphics/PA2/include -I/usr/include/SDL2 -I/home/vpham/repos/computer-graphics/PA2/imgui -I/home/vpham/repos/computer-graphics/PA2/imgui/backends  -std=gnu++11 -g -o CMakeFiles/Tutorial.dir/src/camera.cpp.o -c /home/vpham/repos/computer-graphics/PA2/src/camera.cpp",
+  "file": "/home/vpham/repos/computer-graphics/PA2/src/camera.cpp"
+},
+{
+  "directory": "/home/vpham/repos/computer-graphics/PA2",
+  "command": "/usr/bin/c++ -DUNIX -I/home/vpham/repos/computer-graphics/PA2/include -I/usr/include/SDL2 -I/home/vpham/repos/computer-graphics/PA2/imgui -I/home/vpham/repos/computer-graphics/PA2/imgui/backends  -std=gnu++11 -g -o CMakeFiles/Tutorial.dir/src/engine.cpp.o -c /home/vpham/repos/computer-graphics/PA2/src/engine.cpp",
+  "file": "/home/vpham/repos/computer-graphics/PA2/src/engine.cpp"
+},
+{
+  "directory": "/home/vpham/repos/computer-graphics/PA2",
+  "command": "/usr/bin/c++ -DUNIX -I/home/vpham/repos/computer-graphics/PA2/include -I/usr/include/SDL2 -I/home/vpham/repos/computer-graphics/PA2/imgui -I/home/vpham/repos/computer-graphics/PA2/imgui/backends  -std=gnu++11 -g -o CMakeFiles/Tutorial.dir/src/eventhandler.cpp.o -c /home/vpham/repos/computer-graphics/PA2/src/eventhandler.cpp",
+  "file": "/home/vpham/repos/computer-graphics/PA2/src/eventhandler.cpp"
+},
+{
+  "directory": "/home/vpham/repos/computer-graphics/PA2",
+  "command": "/usr/bin/c++ -DUNIX -I/home/vpham/repos/computer-graphics/PA2/include -I/usr/include/SDL2 -I/home/vpham/repos/computer-graphics/PA2/imgui -I/home/vpham/repos/computer-graphics/PA2/imgui/backends  -std=gnu++11 -g -o CMakeFiles/Tutorial.dir/src/graphics.cpp.o -c /home/vpham/repos/computer-graphics/PA2/src/graphics.cpp",
+  "file": "/home/vpham/repos/computer-graphics/PA2/src/graphics.cpp"
+},
+{
+  "directory": "/home/vpham/repos/computer-graphics/PA2",
+  "command": "/usr/bin/c++ -DUNIX -I/home/vpham/repos/computer-graphics/PA2/include -I/usr/include/SDL2 -I/home/vpham/repos/computer-graphics/PA2/imgui -I/home/vpham/repos/computer-graphics/PA2/imgui/backends  -std=gnu++11 -g -o CMakeFiles/Tutorial.dir/src/main.cpp.o -c /home/vpham/repos/computer-graphics/PA2/src/main.cpp",
+  "file": "/home/vpham/repos/computer-graphics/PA2/src/main.cpp"
+},
+{
+  "directory": "/home/vpham/repos/computer-graphics/PA2",
+  "command": "/usr/bin/c++ -DUNIX -I/home/vpham/repos/computer-graphics/PA2/include -I/usr/include/SDL2 -I/home/vpham/repos/computer-graphics/PA2/imgui -I/home/vpham/repos/computer-graphics/PA2/imgui/backends  -std=gnu++11 -g -o CMakeFiles/Tutorial.dir/src/object.cpp.o -c /home/vpham/repos/computer-graphics/PA2/src/object.cpp",
+  "file": "/home/vpham/repos/computer-graphics/PA2/src/object.cpp"
+},
+{
+  "directory": "/home/vpham/repos/computer-graphics/PA2",
+  "command": "/usr/bin/c++ -DUNIX -I/home/vpham/repos/computer-graphics/PA2/include -I/usr/include/SDL2 -I/home/vpham/repos/computer-graphics/PA2/imgui -I/home/vpham/repos/computer-graphics/PA2/imgui/backends  -std=gnu++11 -g -o CMakeFiles/Tutorial.dir/src/object3d.cpp.o -c /home/vpham/repos/computer-graphics/PA2/src/object3d.cpp",
+  "file": "/home/vpham/repos/computer-graphics/PA2/src/object3d.cpp"
+},
+{
+  "directory": "/home/vpham/repos/computer-graphics/PA2",
+  "command": "/usr/bin/c++ -DUNIX -I/home/vpham/repos/computer-graphics/PA2/include -I/usr/include/SDL2 -I/home/vpham/repos/computer-graphics/PA2/imgui -I/home/vpham/repos/computer-graphics/PA2/imgui/backends  -std=gnu++11 -g -o CMakeFiles/Tutorial.dir/src/shader.cpp.o -c /home/vpham/repos/computer-graphics/PA2/src/shader.cpp",
+  "file": "/home/vpham/repos/computer-graphics/PA2/src/shader.cpp"
+},
+{
+  "directory": "/home/vpham/repos/computer-graphics/PA2",
+  "command": "/usr/bin/c++ -DUNIX -I/home/vpham/repos/computer-graphics/PA2/include -I/usr/include/SDL2 -I/home/vpham/repos/computer-graphics/PA2/imgui -I/home/vpham/repos/computer-graphics/PA2/imgui/backends  -std=gnu++11 -g -o CMakeFiles/Tutorial.dir/src/window.cpp.o -c /home/vpham/repos/computer-graphics/PA2/src/window.cpp",
+  "file": "/home/vpham/repos/computer-graphics/PA2/src/window.cpp"
+}
+]
